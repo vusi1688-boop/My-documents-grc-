@@ -1,44 +1,72 @@
-Project 4:Incident Response Plan
+# Project 4: Incident Response Plan
+## MediCare Connect (Pty) Ltd
+### ISO 27035 Aligned | POPIA Section 22 | Healthcare Sector
 
-MediCare Connect (Pty) Ltd
-ISO 27035 Aligned | POPIA Section 22 | Healthcare Sector
-The Business Problem
-Risk Register RSK-005 identified that MediCare Connect had no incident response procedure despite processing 12,000 patient medical records under POPIA obligations.
+---
 
-A breach without a documented response plan means the organization will miss the mandatory 72 hour POPIA notification requirement to the Information Regulator, converting a manageable security incident into a regulatory enforcement matter with fines up to R10 million.
+## The Business Problem
+Risk Register Risk-005 identified that
+MediCare Connect had no incident response
+procedure despite processing 12,000 patient
+medical records under POPIA obligations.
 
-What This Project Delivers
+A breach without a documented response plan
+means the organization will miss the mandatory
+72 hour POPIA notification requirement to the
+Information Regulator, converting a manageable
+security incident into a regulatory enforcement
+matter with fines up to R10 million.
 
+---
+
+## What This Project Delivers
 A complete Incident Response Plan covering:
+- Four realistic healthcare incident scenarios
+- POPIA 72 hour notification procedure
+- Roles and responsibilities (RACI model)
+- Incident classification and severity tiers
+- Evidence preservation requirements
+- Tabletop simulation with documented results
+- Post incident review process
 
-Four realistic healthcare incident scenarios
-POPIA 72 hour notification procedure
-Roles and responsibilities (RACI model)
-Incident classification and severity tiers
-Evidence preservation requirements
-Tabletop simulation with documented results
-Post incident review process
-Incident Scenarios Covered
-Scenario	Type	POPIA Reportable
-Phishing leading to account compromise	External attack	Yes
-Ransomware on patient record system	External attack	Yes
-POPIA data breach notification	Regulatory	Yes - triggers process
-Stolen unencrypted laptop	Physical	Yes
-Documents In This Folder
-Document	Description
-Incident-Response-Plan	Full IR plan with all phases
-POPIA-Breach-Notification-Procedure	72 hour notification workflow
-Incident-Classification-Guide	Severity tiers and escalation
-Tabletop-Simulation-Report	Phishing scenario test results
-Incident-Report-Template	Blank template for future use
-Frameworks Applied
-ISO/IEC 27035:2023 (Incident Management)
-ISO/IEC 27001:2022 Annex A.5.24 - A.5.28
-POPIA Section 22 (Security Compromises)
-NIST SP 800-61 (Computer Security Incident Handling)
-Key Outcome
-Implementing this IR plan reduces RSK-005 from CRITICAL (score 20) to MEDIUM (score 6) and ensures POPIA 72 hour compliance in all breach scenarios.
+---
 
+## Incident Scenarios Covered
+| Scenario | Type | POPIA Reportable |
+|----------|------|-----------------|
+| Phishing leading to account compromise | External attack | Yes |
+| Ransomware on patient record system | External attack | Yes |
+| POPIA data breach notification | Regulatory | Yes - triggers process |
+| Stolen unencrypted laptop | Physical | Yes |
 
+---
+
+## Documents In This Folder
+| Document | Description |
+|----------|-------------|
+| Incident-Response-Plan | Full IR plan with all phases |
+| POPIA-Breach-Notification-Procedure | 72 hour notification workflow |
+| Incident-Classification-Guide | Severity tiers and escalation |
+| Tabletop-Simulation-Report | Phishing scenario test results |
+| Incident-Report-Template | Blank template for future use |
+
+---
+
+## Frameworks Applied
+- ISO/IEC 27035:2023 (Incident Management)
+- ISO/IEC 27001:2022 Annex A.5.24 - A.5.28
+- POPIA Section 22 (Security Compromises)
+- NIST SP 800-61 (Computer Security Incident Handling)
+
+---
+
+## Key Outcome
+Implementing this IR plan reduces Risk-005
+from Critical (score 20) to MEDIUM (score 6)
+and ensures POPIA 72 hour compliance
+in all breach scenarios.
+
+---
 Portfolio project by Patrick Mohlala
+
 GRC Analyst | Johannesburg, South Africa
